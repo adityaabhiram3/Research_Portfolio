@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://adityaabhiram3.github.io/al-folio/sitemap.xml
+Sitemap: https://adityaabhiram3.github.io/sitemap.xml
